@@ -2,7 +2,6 @@
 ![Eloquence Logo](./eloquence.png#gh-light-mode-only)
 
 <p align="center"><strong>Eloquence</strong> — a hardware-first exokernel research project</p>
-<p align="center">we do behind-the-scenes operations</p>
 
 ## About
 
